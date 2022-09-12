@@ -21,29 +21,29 @@ Será necessário abrir seu navegador e acessar: `http://localhost`
  
 * Algoritmo 01 - <a href="https://github.com/HeberSilverio/Algoritmos#algoritmo-01---complete-o-quadro">Complete o quadro</a> 
 
-* Algoritmo 02 - <a href="https://github.com/HeberSilverio/Algoritmos#algoritmo-02---conte%C3%BAdo-de-v-ap%C3%B3s-algoritmo">Conteúdo de V após algoritmo</a> 
+* Algoritmo 02 - <a href="https://github.com/HeberSilverio/Algoritmos#algoritmo-02---conte%C3%BAdo-de-v-ap%C3%B3s-algoritmo">Conteúdo do vetor V após algoritmo</a> 
 
-* Algoritmo 03 - <a href="https://github.com/HeberSilverio/Algoritmos#desafio-dia-03---retangulo-com-javascript">Retangulo com JavaScript</a> 
+* Algoritmo 03 - <a href="https://github.com/HeberSilverio/Algoritmos#algoritmo-03---retangulo-com-javascript">Retangulo com JavaScript</a> 
 
 ## Algoritmo 01 - Complete o quadro
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%201/assets/img/Algoritmo01-resolucao.png">
     <img src="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%201/assets/img/Algoritmo01-resolucao.png" alt="Algoritmo 01" style="max-width: 50%;">
 </a> </br>
 
-<a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%201">Código do Algoritmo 01</a> </br>
+#### <a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%201">Código do Algoritmo 01</a> </br>
 
 ## Algoritmo 02 - Conteúdo de V após algoritmo
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%202/assets/img/Algoritmo02-resolucao.png">
     <img src="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%202/assets/img/Algoritmo02-resolucao.png" alt="Algoritmo 02" style="max-width: 80%;">
 </a>
-<a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%202">Código do Algoritmo 02</a> </br>
+#### <a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%202">Código do Algoritmo 02</a> </br>
 
 
 ## Algoritmo 03 - Retangulo com JavaScript 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%203/assets/img/Algoritmo03-resolucao.png">
     <img src="https://github.com/HeberSilverio/Algoritmos/blob/main/Teste%20de%20l%C3%B3gica%203/assets/img/Algoritmo03-resolucao.png" alt="Algoritmo 03" style="max-width: 80%;">
 </a>
-<a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%203">Código do Algoritmo 03</a> </br>
+#### <a href="https://github.com/HeberSilverio/Algoritmos/tree/main/Teste%20de%20l%C3%B3gica%203">Código do Algoritmo 03</a> </br>
 
 
 
